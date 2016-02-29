@@ -1,1 +1,3 @@
-My name is Tom Porter and this is my story.
+My name is Tom Porter and this is my story.  This is my first day at Dev Code Camp.  I am quite interested in learning more as we continue to progress through this course.  So far, so good! I am looking forward to the opportunities this class will open up for me and have high hopes for the positive impact it will have on my life.
+
+I have previously been employed as a Police Officer, School Resource Officer, Security Manager and Private Investigator.  I look forward to leaving that career field and starting down this new path of software engineering.
